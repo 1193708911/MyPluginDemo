@@ -1,0 +1,3 @@
+include ':Plugin'
+include ':app'
+rootProject.name = "MyPluginDemo"
